@@ -114,5 +114,4 @@ graphene-stubs/utils/tests/test_trim_docstring.pyi
 graphene_stubs.egg-info/PKG-INFO
 graphene_stubs.egg-info/SOURCES.txt
 graphene_stubs.egg-info/dependency_links.txt
-graphene_stubs.egg-info/requires.txt
 graphene_stubs.egg-info/top_level.txt
